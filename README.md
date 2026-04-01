@@ -5,6 +5,8 @@
 This repository provides a computational framework for processing and visualizing astronomical data from the **ESA Gaia Mission (DR3)**. By leveraging the Python scientific stack, the project transforms raw celestial coordinates into meaningful astrophysical insights.
 
 ---
+## Result:
+<img width="1917" height="1016" alt="image" src="https://github.com/user-attachments/assets/574b5877-b28e-4daa-b813-c1f55a4a759e" />
 
 ## Overview
 
